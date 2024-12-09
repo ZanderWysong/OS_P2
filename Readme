@@ -1,4 +1,4 @@
 How to run the C program
-Open the terminal and gcc OS_P2.c -lpthread -o main
+Open the terminal and type gcc OS_P2.c -lpthread -o main
 Then type ./main 
 Then enter the number of Cheesburgers
